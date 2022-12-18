@@ -1,6 +1,6 @@
-# Calculator
+# Lista TO DO
 
-Prosta kalkulator z historią działań
+Prosta lista to do z wyszukiwarka 
 
 ## Tech Stack
 
